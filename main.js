@@ -1,8 +1,8 @@
 const linksSocialMedia = {
-  youtube: 'UC6TdkDF8S4k7a8jhe4mDj_A',
+  youtube: 'channel/UC6TdkDF8S4k7a8jhe4mDj_A',
   facebook: 'camila.demier.3',
   instagram: 'camilademierm',
-  twitter: 'lula',
+  twitter: 'rocketseat',
   github: 'CamilaDemier'
 }
 
